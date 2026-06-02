@@ -1,0 +1,6 @@
+{
+  "name": "WhaleSolutions.vn",
+  "description": "Freelance website, marketing, and AI solutions agency for small businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
